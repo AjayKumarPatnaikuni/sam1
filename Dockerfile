@@ -1,4 +1,4 @@
-FROM python:alpine3.7
+FROM python:3.7
 Maintainer Ajay Kumar
 COPY . /app
 WORKDIR /app
